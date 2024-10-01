@@ -3,7 +3,7 @@
     <a align="center" href="" target="_blank">
       <img
         width="850"
-        src="https://github.com/myselfbasil/Guide-to-Load-and-Run-PeopleNet-Deepstream-7.0-Model/blob/1cc7d6cfe5276b60b29875ecf90499a4560a07d4/assets/header_img.png"
+        src="https://github.com/myselfbasil/Training-a-Custom-Model-with-TAO-Toolkit-Using-the-Indian-Driving-Dataset./blob/923e8139af32cb030226413f2fd0aefa351f0783/assets/header_img.png"
       >
     </a>
   </p>
