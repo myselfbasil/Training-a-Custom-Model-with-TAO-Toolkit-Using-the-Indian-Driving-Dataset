@@ -410,3 +410,6 @@ Median Inference Time: 0.011044
 ---
 
 **Made with 🫶🏻 by Basil**
+Check out my medium guide here: [medium.com](https://medium.com/@basilshaji32/training-a-custom-model-with-tao-toolkit-using-the-indian-driving-dataset-f4ae538e5c45)
+
+You can go through my notion website: [notion.com](https://basilshaji.notion.site/Training-a-Custom-Model-with-TAO-Toolkit-Using-the-Indian-Driving-Dataset-cc5adfe38f0e4f7bbae26f9b19635388?pvs=4)
