@@ -37,14 +37,14 @@ docker login
 I have copied my dataset files to “/home/basil/Desktop/IDD_KITTI_FORMAT/” like the directory tree given below:
 
 ```bash
-$IDD_KITTI_FORMAT
-└── data
+$kitti
+└── augmented
     ├── testing
-		│		└── image_2
-		│		└── label_1
+    │    └── image_2
+    │	 └── label_1
     └── training
-		    └── image_2
-	  		└── label_1
+         └── image_2
+         └── label_1
 ```
 
 Now download the notebook & necessary files using the wget link below and unzip it
